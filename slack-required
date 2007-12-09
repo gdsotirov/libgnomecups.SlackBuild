@@ -1,0 +1,5 @@
+cups >= 1.2.11
+glib2 >= 2.12.12
+glibc-solibs >= 2.5
+openssl >= 0.9.8e | openssl-solibs >= 0.9.8e
+zlib >= 1.2.3
